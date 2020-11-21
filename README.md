@@ -23,4 +23,4 @@ Update the fileIntialName variable in script with the Intial name the file has.
 
 # Optional 
 
-To run this script on startup, move the move.py file to C:\(**your-username**)\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+To run this script on startup, move the move.py file to C:\Users\(**your-username**)\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
